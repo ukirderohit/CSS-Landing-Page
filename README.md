@@ -1,13 +1,13 @@
 # CSS-Landing-Page
 A CSS-Landing-Page (No Framework Used)
 
-###[See the - Demo](http://ukirderohit.me/CSS-Landing-Page/)
+### [See the - Demo](https://ukirderohit.com/CSS-Landing-Page/)
 
-![Responsive Layout](http://ukirderohit.me/CSS-Landing-Page/screenshot/mobile.jpg)
-![Desktop Layout](http://ukirderohit.me/CSS-Landing-Page/screenshot/pc.jpg)
+![Responsive Layout](https://ukirderohit.com/CSS-Landing-Page/screenshot/mobile.jpg)
+![Desktop Layout](https://ukirderohit.com/CSS-Landing-Page/screenshot/pc.jpg)
 
 
-###Features:
+### Features:
 <br>:white_check_mark:– Main image with CSS gradient overlay, full screen stretch
 <br>:white_check_mark:– Responsive to tablet<br>
 :white_check_mark:– Arrow scrolls you down the page so that the white nav bar is at top of the screen
